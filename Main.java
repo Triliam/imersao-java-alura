@@ -33,6 +33,7 @@ public class Main {
             //desafio 2 - deixar  mais bonitinho
             System.out.println("\u001b[1m Relex, cafézim e bom filmim! ");
             System.out.println("✌ " + "☕");
+            System.out.println("✌ " + "☕");
             //desafio 5 criar alguma maneira para você dar uma avaliação ao filme, puxando de algum arquivo de configuração OU pedindo a avaliação para o usuário digitar no terminal.
             System.out.println("O que achou do filme? ");
             Scanner sc = new Scanner(System.in);
