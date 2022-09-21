@@ -41,6 +41,5 @@ public class Main {
             System.out.println("Sua resposta: "+ opiniao);
             System.out.println();
         }
-
     }
 }
